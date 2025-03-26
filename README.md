@@ -1,7 +1,6 @@
-# Day #7
+# FLIP COIN GAME
 
-### Flip a Coin Game
-In this tutorial ([Open in Youtube](https://youtu.be/-o-H1Ecqo_M)),  I am gonna showing to you how to code simple flip a coin game! this heads and tails game have very simple code and it's best js tutorial for beginners❗️
+Simple flip coin game with javascript, test your luck❗️
 
 # Screenshot
 Here we have project screenshot :
